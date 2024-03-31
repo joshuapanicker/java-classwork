@@ -1,0 +1,51 @@
+Witch
+Griselda
+evil
+can cast
+Mugwort
+The witch's eyes glow green! Immobilizing thee, she forces her potion down thy throat.
+
+Witch
+Astrid
+good
+can cast
+Arnica
+The witch gazes kindly upon thee. Thou drinkest the potion she offers thee.
+
+Knight
+Constans
+good
+Sword
+With a gentlemanly bow, he presents thee with his weapon. Thou addeth it to thy pack.
+
+Knight
+Godwin
+good
+Spear
+With a flourish, the knight hands thee his weapon, which thou place in thy pack.
+
+Knight
+Godfrey
+evil
+Dart
+In a sudden motion, the knight poises for attack. He strikes!
+
+Witch
+Helga
+evil
+cannot cast
+Wolf's Bane
+The witch's eyes hypnotize you. You accept her potion, which scalds your throat.
+
+Witch
+Morag
+evil
+can cast
+Wolf's Bane
+The witch's eyes burn like fire. Grabbing thy hair, she forces her potion down thy throat.
+
+Knight
+Fendrel
+evil
+Spear
+The knight emits a war cry and attacks.
