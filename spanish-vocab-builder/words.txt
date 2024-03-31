@@ -1,0 +1,40 @@
+bear
+el oso
+black
+negro
+blue
+azul
+cat
+el gato
+cow
+la vaca
+dog
+el perro
+fall
+el otono
+gray
+gris
+green
+verde
+purple
+morado
+red
+rojo
+spring
+la primavera
+summer
+el verano
+to be
+ser
+to be able
+poder
+to go
+ir
+to love
+amar
+winter
+el invierno
+white
+blanco
+yellow
+amarillo
