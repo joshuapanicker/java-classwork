@@ -1,8 +1,0 @@
-Thou takest the long way around and arrive at a draw bridge.
-Thou takest a short footpath and arrive at a draw bridge.
-Thou crossest the drawbridge and enter a courtyard with an open air market.
-Thou crossest the drawbridge and enter a giant vestibule. In the shadows, some figures lurk.
-Thou enterest a long gallery with many paintings on the wall of the queen's ancestors.
-Thou enterest a the dining hall. It contains a long table covered in crumbs from last night's meal.
-Thou arrivest at the entrance to the queen's bedchamber. A figure stands before the door.
-Thou arrivest in the throne room, but a figure blocks thy path.
