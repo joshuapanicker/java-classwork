@@ -1,0 +1,95 @@
+The Time in Between
+Maria Duenas
+9.86
+43-453-44
+2
+Bleak House
+Charles Dickens
+8.99
+35-678-97
+4
+Rebecca
+Daphne Dumaurier
+5.50
+32-423-82
+5
+A Room with a View
+E.M. Forster
+7.50
+11-778-89
+3
+Outlander
+Diana Galbadon
+19.95
+54-665-65
+7
+Jane Eyre
+Charlotte Bronte
+7.90
+23-456-74
+4
+The Hunger Games
+Suzanne Collins
+6.90
+42-323-22
+10
+The Woman in White
+Wilkie Collins
+10.75
+32-567-89
+2
+A Face like Glass
+Frances Hardinge
+15.95
+44-554-43
+1
+Lady Audley's Secret
+Mary Elizabeth Braddon
+5.50
+12-121-34
+1
+Murder on the Orient Express
+Agatha Christie
+2.99
+98-375-83
+8
+Middlemarch
+George Elliot
+12.50
+12-567-43
+4
+Our Souls at Night
+Kent Haruf
+11.99
+78-474-89
+2
+Fangirl
+Rainbow Rowell
+10.79
+24-137-25
+6
+Ramona Blue
+Julie Murphy
+9.99
+93-283-11
+4
+The Rosie Project
+Graeme Simsion
+14.99
+82-389-31
+5
+A Is for Alibi
+Sue Grafton
+4.55
+34-323-21
+3
+Still Life
+Louise Penny
+18.99
+33-443-22
+5
+Flight Behavior
+Barbara Kingsolver
+9.98
+56-382-34
+4
